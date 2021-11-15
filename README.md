@@ -1,7 +1,7 @@
 ## Olá Eu sou Felipe, Bem Vindos!
 
 - 🔭 Procuro Trabalhar com Front-End
-- 🌱 Estou aprendendo Javascript / React Native
+- 🌱 Javascript / React.Js/ Html /Css
 - 📫 Contate-me no E-mail: felipefernandes2080ti@gmail.com
 - 😄 Pronouns: Ele/Dele
 
