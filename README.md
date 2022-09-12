@@ -4,7 +4,7 @@
     ### tenho conhecimentos em:
     - Back-End Typescript/javascript
     - Migrations KnexJs
-    - My SQL BD
+    - My SQL DB
     
 - 🌱 Javascript / Typescript / React.Js/ Html /Css / Scss
 - 📫 Contate-me no E-mail: felipefernandes2080ti@gmail.com
