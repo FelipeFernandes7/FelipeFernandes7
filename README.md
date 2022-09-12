@@ -1,10 +1,10 @@
 ## Olá Eu sou Felipe, Bem Vindos!
 
-- 🔭 Atualmente estou trabalhando com front-end ReactJS -- typescript//JS
+- 🔭 ### Atualmente estou trabalhando com front-end ReactJS - typescript/JS
     ### tenho conhecimentos em:
     - Back-End Typescript/javascript
     - Migrations KnexJs
-    - My Sql BD
+    - My SQL BD
     
 - 🌱 Javascript / Typescript / React.Js/ Html /Css / Scss
 - 📫 Contate-me no E-mail: felipefernandes2080ti@gmail.com
