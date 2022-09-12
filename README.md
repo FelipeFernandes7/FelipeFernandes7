@@ -1,6 +1,6 @@
 ## Olá Eu sou Felipe, Bem Vindos!
 
-- 🔭 ### Atualmente estou trabalhando com front-end ReactJS - typescript/JS
+- 🔭 Atualmente estou trabalhando com front-end ReactJS - typescript/JS
     ### tenho conhecimentos em:
     - Back-End Typescript/javascript
     - Migrations KnexJs
