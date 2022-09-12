@@ -1,6 +1,11 @@
 ## Olá Eu sou Felipe, Bem Vindos!
 
-- 🔭 Procuro Trabalhar com Front-End
+- 🔭 Atualmente estou trabalhando com front-end ReactJS -- typescript//JS
+    ### tenho conhecimentos em:
+    - Back-End Typescript/javascript
+    - Migrations KnexJs
+    - My Sql BD
+    
 - 🌱 Javascript / Typescript / React.Js/ Html /Css / Scss
 - 📫 Contate-me no E-mail: felipefernandes2080ti@gmail.com
 - 😄 Pronouns: Ele/Dele
