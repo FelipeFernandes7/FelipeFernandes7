@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando com front-end ReactJS - typescript/JS
     ### tenho conhecimentos em:
-    - Back-End Typescript/javascript
+    - Back-End Typescript/javascript -Node
     - Migrations KnexJs
     - My SQL DB
     
