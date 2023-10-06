@@ -8,13 +8,13 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeFernandes7&show_icons=true&count_private=true&hide_border=true&title_color=6e72fc&icon_color=6e72fc&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Fernandes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFernandes7&layout=compact&hide_border=true&title_color=6e72fc&text_color=6e72fc&bg_color=0d1117" />
 </div>
-
+## &nbsp;Contacts:
 <div align="center">
   <a href="https://linkedin.com/in/luiz-felipe-6a5a98215" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
    <a href="https://www.instagram.com/felipe_fernandes7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:felipefernandes2080ti@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
