@@ -9,13 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFernandes7&layout=compact&hide_border=true&title_color=6e72fc&text_color=6e72fc&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FelipeFernandes7&theme=purple)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeFernandes7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">
   <a href="https://linkedin.com/in/luiz-felipe-6a5a98215" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -49,6 +42,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FelipeFernandes7}/count.svg" /></p> 
 <br></div>
-  
-
+  ![Snake animation](https://github.com/Sn0wye/FelipeFernandes7/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e72fc&height=120&section=footer"/>
