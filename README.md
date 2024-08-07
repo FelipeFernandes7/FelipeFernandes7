@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Felipe Fernandes
 
-I always like to put my ideas into code and I find it very easy to be creative, not to mention that I have the ability to learn something I like very quickly
+I always like to put my ideas into code and I find it very easy to be creative, not to mention that I have the ability to learn something I like very quickly 🫠
 
 
 ```ts
