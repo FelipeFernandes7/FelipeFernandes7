@@ -29,11 +29,22 @@ while(alive) {
 
 
  ## ⚒️ Tech Satck | Tools
-<p align="left">
+ <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwindcss,styledcomponents,css,sass,mui,cs,typescript,javascript,nodejs,express,prisma,mysql,postgres,mongodb,github,git,bitbucket,aws,vercel,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,aws,vercel,androidstudio" />
   </a>
 </p> 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwindcss,styledcomponents,css,sass,mui" />
+  </a>
+</p> 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,typescript,javascript,nodejs,express,prisma,mysql,postgres,mongodb" />
+  </a>
+</p> 
+
 
 
 ## &nbsp;Github Stats:
