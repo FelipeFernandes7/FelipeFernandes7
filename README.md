@@ -25,7 +25,7 @@
   </a>
 </div>
 
-## &nbsp; Front-End skills:
+### &nbsp; Front-End skills:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwindcss,styledcomponents,css,sass,mui" />
@@ -34,7 +34,7 @@
 
 
 
-## &nbsp; Back-End skills:
+### &nbsp; Back-End skills:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,typescript,javascript,nodejs,express,prisma,mysql,postgres,mongodb" />
@@ -42,7 +42,7 @@
 </p> 
 
 
-## &nbsp; Tools skills:
+### &nbsp; Tools skills:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,bitbucket,aws,vercel" />
