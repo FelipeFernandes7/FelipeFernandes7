@@ -17,12 +17,15 @@ while(alive) {
 
  ## Contacts:
 
-  <a href="https://linkedin.com/in/luiz-felipe-6a5a98215" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
-  </a>
+
   <a href="mailto:felipefernandes2080ti@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
   </a>
+  
+  <a href="https://linkedin.com/in/luiz-felipe-6a5a98215" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
+  </a>
+
   <a href="https://discordapp.com/users/418551401573253121" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" alt="discord logo"  />
   </a>
