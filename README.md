@@ -8,7 +8,7 @@ while(alive) {
     eat();
     code();
 
-    if (!freeTime) {
+    if (freeTime) {
         playALot();
         return;
     }
