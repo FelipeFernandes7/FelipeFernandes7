@@ -93,38 +93,12 @@ Complemento minha atuação com experiência em **back-end**, utilizando **NestJ
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 💼 Experiência Profissional
-
-<table>
-<tr>
-<td width="140" valign="top" align="center">
-  <b>Jun/2024<br/>— atual</b>
-</td>
-<td>
-
-**Desenvolvedor Full Stack** · BHS Tecnologia — *Ribeirão Preto, SP*
-Reformulação completa de um app de **gestão de condomínios**: modernização de layout, ganhos de performance no front-end e contribuições no back-end aplicando **DDD** com **NestJS**, **TypeScript** e **PostgreSQL**.
-
-</td>
-</tr>
-<tr>
-<td width="140" valign="top" align="center">
-  <b>Mai/2022<br/>— Jul/2023</b>
-</td>
-<td>
-
-**Desenvolvedor Full Stack** · MazzaFC — *Franca, SP*
-Desenvolvimento do sistema interno **MazzaHoras**, para gerenciamento e registro de ponto de colaboradores. Atuação na definição do fluxo da aplicação, regras de negócio no back-end e estruturação da arquitetura.
-
-</td>
-</tr>
-</table>
 
 ## 🎓 Formação & Cursos
 
-- 🎓 **Técnico em Análise e Desenvolvimento de Sistemas** — Etec Antônio de Pádua Cardoso (Fev/2021 – Jul/2022)
-- 📘 **React Advanced** — Udemy *(Hooks avançados, padrões de componentização, otimização de performance)*
-- 📘 **Lógica de Programação** — Udemy *(Estruturas condicionais, algoritmos, resolução de problemas)*
+- 🎓 **Técnico em Análise e Desenvolvimento de Sistemas**: Etec Antônio de Pádua Cardoso (Fev/2021 – Jul/2022)
+- 📘 **React Advanced**: Udemy *(Hooks avançados, padrões de componentização, otimização de performance)*
+- 📘 **Lógica de Programação**: Udemy *(Estruturas condicionais, algoritmos, resolução de problemas)*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -157,20 +131,6 @@ Desenvolvimento do sistema interno **MazzaHoras**, para gerenciamento e registro
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🚀 Projetos em Destaque
-
-
-
-<div align="center">
-
-<a href="https://github.com/FelipeFernandes7">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFernandes7&coffee_shop&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/FelipeFernandes7">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFernandes7&mc-donalds&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ## 📫 Vamos conversar?
 
