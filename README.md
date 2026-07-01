@@ -133,7 +133,7 @@ Complemento minha atuação com experiência em **back-end**, utilizando **NestJ
 
 ## 📫 Vamos conversar?
 
-<div align="center">
+<div align="left">
 
 Estou sempre aberto a novas oportunidades e colaborações. Manda um alô! 👋
 
