@@ -138,7 +138,7 @@ Complemento minha atuação com experiência em **back-end**, utilizando **NestJ
 
 Estou sempre aberto a novas oportunidades e colaborações. Manda um alô! 👋
 
-<a href="https://www.linkedin.com/in/felipe-fernandes" target="_blank">
+<a href="https://www.linkedin.com/in/felipe-fernandes-6a5a98215" target="_blank">
   <img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:fernandesfelipe.dev@gmail.com">
