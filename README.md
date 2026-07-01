@@ -33,7 +33,7 @@ const felipeFernandes = {
   location: "Brodowski - SP, Brasil",
   focus: ["Front-End escalável", "APIs robustas", "Boas práticas de arquitetura"],
   principles: ["DDD", "TDD", "Clean Code", "Performance First"],
-  currentlyLearning: [".NET"],
+  currentlyLearning: [".NET, Java"],
   funFact: "Transformo café em interfaces rápidas e APIs bem estruturadas ☕"
 };
 ```
