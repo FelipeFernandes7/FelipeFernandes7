@@ -1,65 +1,244 @@
-# Hi there! 👋 I'm Felipe Fernandes
+<div align="center">
 
-I always like to put my ideas into code and I find it very easy to be creative, not to mention that I have the ability to learn something I like very quickly 🫠
+# 👋 Olá, eu sou Felipe Fernandes
 
+### Full Stack Developer • React • Next.js • NestJS • TypeScript
 
-```ts
-while(alive) {
-    eat();
-    code();
+<p>
+Desenvolvedor apaixonado por criar aplicações escaláveis, performáticas e com excelente experiência para o usuário.
+</p>
 
-    if (freeTime) {
-        playALot();
-        return;
-    }
-}
-```
+<a href="<!-- SEU LINK LINKEDIN -->">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
- ## Contacts:
+<a href="mailto:<!-- SEU EMAIL -->">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="<!-- PORTFOLIO -->">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-  <a href="mailto:felipefernandes2080ti@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
-  </a>
-  
-  <a href="https://linkedin.com/in/luiz-felipe-6a5a98215" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
-  </a>
-
-  <a href="https://discordapp.com/users/418551401573253121" target="_blank">
-<img src="https://skillicons.dev/icons?i=discord" alt="discord logo"  />
-  </a>
-
-
- ## ⚒️ Tech Satck | Tools
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,bitbucket,aws,vercel,androidstudio" />
-  </a>
-</p> 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwindcss,styledcomponents,css,sass,mui" />
-  </a>
-</p> 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,typescript,javascript,nodejs,express,prisma,mysql,postgres,mongodb" />
-  </a>
-</p> 
-
-
-
-## &nbsp;Github Stats:
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeFernandes7&show_icons=true&count_private=true&hide_border=true&title_color=6e72fc&icon_color=6e72fc&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Fernandes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFernandes7&layout=compact&hide_border=true&title_color=6e72fc&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+---
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FelipeFernandes7}/count.svg" /></p> 
+# 💻 Sobre mim
+
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações modernas utilizando React.js, Next.js, TypeScript e NestJS.
+
+Tenho experiência na criação de interfaces escaláveis, APIs REST, arquitetura baseada em componentes, integração entre sistemas e desenvolvimento orientado às boas práticas como Clean Code, SOLID, DDD e TDD.
+
+Gosto de transformar problemas complexos em soluções simples, performáticas e bem documentadas.
+
+---
+
+# 🚀 Experiência
+
+### 💼 Full Stack Developer
+
+Atuo no desenvolvimento de aplicações web modernas, trabalhando tanto no Front-end quanto no Back-end.
+
+Durante minha carreira participei de projetos envolvendo:
+
+- Desenvolvimento de aplicações React e Next.js
+- APIs REST com NestJS
+- Arquitetura baseada em DDD
+- Banco de dados PostgreSQL e MySQL
+- Integração entre sistemas
+- Performance de aplicações
+- Componentização
+- Docker
+- AWS
+- Cloudflare
+- Versionamento com Git
+
+---
+
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite"/>
+
+</p>
+
+Também utilizo:
+
+- Shadcn UI
+- Zustand
+- React Hook Form
+- TanStack Query
+- Context API
+- Zod
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+
+</p>
+
+Principais conhecimentos:
+
+- REST API
+- Clean Architecture
+- DDD
+- TDD
+- JWT
+- Autenticação
+- Integrações
+
+---
+
+## 🗄️ Banco de Dados
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+ORMs:
+
+- Prisma
+- Knex
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,github"/>
+
+</p>
+
+Também utilizo:
+
+- Cloudflare Tunnel
+- GitHub Actions
+- Deploy de aplicações
+
+---
+
+## 🧰 Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma"/>
+
+</p>
+
+---
+
+# ⭐ Projetos em Destaque
+
+<!--
+Adicione seus principais projetos aqui.
+
+Exemplo:
+
+## Sistema de Gestão
+
+Aplicação completa utilizando React + NestJS.
+
+🔗 https://github.com/usuario/projeto
+
+---
+
+## Marketplace API
+
+API desenvolvida utilizando NestJS, PostgreSQL e Prisma.
+
+🔗 https://github.com/usuario/api
+
+-->
+
+Em breve...
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFernandes7&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFernandes7&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=FelipeFernandes7&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+- .NET
+- Arquitetura de Software
+- Microsserviços
+- Docker
+- AWS
+- Testes Automatizados
+- CI/CD
+
+---
+
+# 🎯 Objetivo Profissional
+
+Busco participar de projetos desafiadores onde eu possa continuar evoluindo como Desenvolvedor Full Stack, contribuindo com soluções escaláveis, arquitetura de qualidade e boas práticas de desenvolvimento.
+
+Tenho interesse especial em projetos que utilizem:
+
+- React
+- Next.js
+- NestJS
+- TypeScript
+- Cloud
+- Microsserviços
+- Arquitetura Limpa
+
+---
+
+# 📫 Contato
+
+<p align="left">
+
+<a href="mailto:fernandesfelipe.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/felipe-fernandes">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/FelipeFernandes7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Obrigado por visitar meu perfil!
+
+Sempre aberto para networking, novas oportunidades e projetos interessantes.
+
+<img src="https://komarev.com/ghpvc/?username=FelipeFernandes7&style=for-the-badge"/>
+
+</div>
