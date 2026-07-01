@@ -52,7 +52,7 @@ Complemento minha atuação com experiência em **back-end**, utilizando **NestJ
 
 ## 🛠️ Stack Técnica
 
-<div align="center">
+<div align="left">
 
 ### Front-End
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
