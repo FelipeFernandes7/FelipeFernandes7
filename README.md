@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Felipe%20Fernandes&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20NestJS&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Felipe%20Fernandes&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20NestJS&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/FelipeFernandes7">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Felipe!;Desenvolvedor+Full+Stack;React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Transformando+ideias+em+produtos+reais;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=58A6FF&vCenter=true&size=24&weight=600"/>
@@ -29,7 +29,7 @@
 
 ```typescript
 const felipeFernandes = {
-  role: "Desenvolvedor Full Stack",
+  role: "Software Developer",
   location: "Brodowski - SP, Brasil",
   focus: ["Front-End escalável", "APIs robustas", "Boas práticas de arquitetura"],
   principles: ["DDD", "TDD", "Clean Code", "Performance First"],
