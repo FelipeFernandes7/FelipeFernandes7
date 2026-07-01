@@ -292,7 +292,7 @@ Busco continuar evoluindo como desenvolvedor Full Stack, aprofundando meu domín
 
 <div align="center">
 
-### "Interfaces performáticas, back-ends bem estruturados — código pensado para durar."
+### "Transformando ideias em soluções escaláveis, escrevendo código limpo e criando experiências que geram valor."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
