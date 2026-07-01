@@ -1,244 +1,299 @@
 <div align="center">
 
-# 👋 Olá, eu sou Felipe Fernandes
+<!-- BANNER DE ABERTURA (Capsule Render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20Felipe%20Fernandes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Front-End%20%26%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
-### Full Stack Developer • React • Next.js • NestJS • TypeScript
+<!-- TYPING ANIMATION -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Especialista+em+React+%26+Next.js;Full+Stack+com+NestJS+%2B+DDD+%2B+TDD;Foco+em+Performance+e+Boas+Pr%C3%A1ticas" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- BADGES SOCIAIS / CONTATO -->
 <p>
-Desenvolvedor apaixonado por criar aplicações escaláveis, performáticas e com excelente experiência para o usuário.
+  <a href="https://www.linkedin.com/in/felipe-fernandes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fernandesfelipe.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FelipeFernandes7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<a href="<!-- SEU LINK LINKEDIN -->">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:<!-- SEU EMAIL -->">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="<!-- PORTFOLIO -->">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<!-- BADGES DE STATUS -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localização-Brodowski%20--%20SP%2C%20Brasil-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=FelipeFernandes7&style=flat-square&color=58A6FF&label=Visualizações+do+perfil" />
+  <img src="https://img.shields.io/github/followers/FelipeFernandes7?style=flat-square&color=58A6FF&label=Seguidores" />
+</p>
 
 </div>
 
----
+<br/>
 
-# 💻 Sobre mim
+<!-- ================================================== -->
+<!-- SOBRE MIM -->
+<!-- ================================================== -->
 
-Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações modernas utilizando React.js, Next.js, TypeScript e NestJS.
+## 👋 Sobre Mim
 
-Tenho experiência na criação de interfaces escaláveis, APIs REST, arquitetura baseada em componentes, integração entre sistemas e desenvolvimento orientado às boas práticas como Clean Code, SOLID, DDD e TDD.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FelipeFernandes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
 
-Gosto de transformar problemas complexos em soluções simples, performáticas e bem documentadas.
+Sou **Felipe Fernandes**, Software Developer com experiência em **React.js** e **Next.js** em ambiente corporativo, especializado na construção de **interfaces escaláveis** e integração com **APIs REST**.
 
----
+Meu foco está em **performance**, **arquitetura de componentes** e boas práticas de desenvolvimento com **TypeScript**. Complemento minha atuação no front-end com experiência em back-end utilizando **NestJS**, aplicando princípios de **DDD (Domain-Driven Design)** e **TDD (Test-Driven Development)** para construir APIs bem estruturadas e testáveis.
 
-# 🚀 Experiência
+Sou formado em **Técnico em Análise e Desenvolvimento de Sistemas** pela Etec Antônio de Pádua Cardoso, e venho me aprofundando continuamente através de cursos complementares em React avançado e lógica de programação.
 
-### 💼 Full Stack Developer
+**O que me move:**
 
-Atuo no desenvolvimento de aplicações web modernas, trabalhando tanto no Front-end quanto no Back-end.
+- 🔭 Construir interfaces performáticas e bem arquitetadas, sem abrir mão da qualidade no back-end.
+- 🧠 Aplicar DDD e TDD para escrever APIs estruturadas, testáveis e fáceis de manter.
+- 🤝 Colaborar na definição de fluxos de aplicação e regras de negócio junto a times de produto.
+- 🎯 Evoluir continuamente como desenvolvedor Full Stack, aprofundando conhecimento em back-end e cloud.
 
-Durante minha carreira participei de projetos envolvendo:
+**Minha forma de trabalhar:**
 
-- Desenvolvimento de aplicações React e Next.js
-- APIs REST com NestJS
-- Arquitetura baseada em DDD
-- Banco de dados PostgreSQL e MySQL
-- Integração entre sistemas
-- Performance de aplicações
-- Componentização
-- Docker
-- AWS
-- Cloudflare
-- Versionamento com Git
+> Entender o fluxo e as regras de negócio antes de codar, estruturar a arquitetura com cuidado e entregar interfaces e APIs que unam boa performance a código bem organizado.
+
+<br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ================================================== -->
+<!-- TECH STACK -->
+<!-- ================================================== -->
 
-## 🎨 Frontend
+## 🛠️ Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite"/>
-
-</p>
-
-Também utilizo:
-
-- Shadcn UI
-- Zustand
-- React Hook Form
-- TanStack Query
-- Context API
-- Zod
-
----
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
-
-</p>
-
-Principais conhecimentos:
-
-- REST API
-- Clean Architecture
-- DDD
-- TDD
-- JWT
-- Autenticação
-- Integrações
-
----
-
-## 🗄️ Banco de Dados
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
-</p>
-
-ORMs:
-
-- Prisma
-- Knex
-
----
-
-## ☁️ DevOps & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,github"/>
-
-</p>
-
-Também utilizo:
-
-- Cloudflare Tunnel
-- GitHub Actions
-- Deploy de aplicações
-
----
-
-## 🧰 Ferramentas
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma"/>
-
-</p>
-
----
-
-# ⭐ Projetos em Destaque
-
-<!--
-Adicione seus principais projetos aqui.
-
-Exemplo:
-
-## Sistema de Gestão
-
-Aplicação completa utilizando React + NestJS.
-
-🔗 https://github.com/usuario/projeto
-
----
-
-## Marketplace API
-
-API desenvolvida utilizando NestJS, PostgreSQL e Prisma.
-
-🔗 https://github.com/usuario/api
-
--->
-
-Em breve...
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFernandes7&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFernandes7&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=FelipeFernandes7&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-- .NET
-- Arquitetura de Software
-- Microsserviços
-- Docker
-- AWS
-- Testes Automatizados
-- CI/CD
-
----
-
-# 🎯 Objetivo Profissional
-
-Busco participar de projetos desafiadores onde eu possa continuar evoluindo como Desenvolvedor Full Stack, contribuindo com soluções escaláveis, arquitetura de qualidade e boas práticas de desenvolvimento.
-
-Tenho interesse especial em projetos que utilizem:
-
-- React
-- Next.js
-- NestJS
-- TypeScript
-- Cloud
-- Microsserviços
-- Arquitetura Limpa
-
----
-
-# 📫 Contato
+### Front-End
 
 <p align="left">
-
-<a href="mailto:fernandesfelipe.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/felipe-fernandes">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/FelipeFernandes7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,typescript,tailwind" />
 </p>
+
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+<br/>
+
+### Back-End
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,dotnet" />
+</p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![KnexJS](https://img.shields.io/badge/KnexJS-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white)
+![.NET (Cursando)](https://img.shields.io/badge/.NET_(Cursando)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Metodologias e práticas:** DDD (Domain-Driven Design) • TDD (Test-Driven Development) • Arquitetura de Software
+
+<br/>
+
+### Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![KnexJS](https://img.shields.io/badge/KnexJS-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white)
+
+<br/>
+
+### Cloud & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,docker,aws" />
+</p>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
+<!-- ================================================== -->
+<!-- ESPECIALIDADES -->
+<!-- ================================================== -->
+
+## 🎯 Especialidades
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Front-End**
+- ✔ Construção de interfaces escaláveis
+- ✔ Arquitetura de componentes
+- ✔ Integração com APIs REST
+- ✔ Otimização de performance
+- ✔ React Native (mobile)
+
+</td>
+<td width="50%" valign="top">
+
+**Back-End & Arquitetura**
+- ✔ APIs REST estruturadas e testáveis
+- ✔ Domain-Driven Design (DDD)
+- ✔ Test-Driven Development (TDD)
+- ✔ ORM (Prisma e KnexJS)
+- ✔ Definição de fluxo de aplicação e regras de negócio
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================================================== -->
+<!-- EXPERIÊNCIA -->
+<!-- ================================================== -->
+
+## 💼 Experiência
+
+```
+Desenvolvedor Full Stack (Front-End)                          Jun/2024 — Atual
+  • Reformulação completa da interface de uma aplicação de gestão de
+    condomínios, modernizando o layout e aprimorando a performance.
+  • Contribuição no desenvolvimento back-end, aplicando conceitos de DDD.
+  • Tecnologias: NestJS, TypeScript, PostgreSQL.
+
+Desenvolvedor Full Stack                                  Mai/2022 — Jul/2023
+  • Desenvolvimento de aplicativo interno para gerenciamento e registro
+    de ponto de colaboradores.
+  • Participação na definição do fluxo da aplicação e implementação das
+    regras de negócio no back-end.
+  • Estruturação da arquitetura do sistema.
+```
+
+---
+
+<!-- ================================================== -->
+<!-- EDUCAÇÃO & CURSOS -->
+<!-- ================================================== -->
+
+## 🎓 Educação & Cursos Complementares
+
+**Técnico em Análise e Desenvolvimento de Sistemas**
+Etec Antônio de Pádua Cardoso — Fev/2021 – Jul/2022
+
+**React Advanced — Udemy**
+Hooks avançados • Padrões de componentização • Otimização de performance
+
+**Lógica de Programação — Udemy**
+Estruturas condicionais e de repetição • Algoritmos • Resolução de problemas
+
+---
+
+<!-- ================================================== -->
+<!-- GITHUB ANALYTICS -->
+<!-- ================================================== -->
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### 💙 Obrigado por visitar meu perfil!
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeFernandes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFernandes7&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
-Sempre aberto para networking, novas oportunidades e projetos interessantes.
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=FelipeFernandes7&style=for-the-badge"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFernandes7&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeFernandes7&theme=tokyo-night&hide_border=true" width="98%" />
+
+</div>
+
+---
+
+<!-- ================================================== -->
+<!-- ATUALMENTE ESTUDANDO -->
+<!-- ================================================== -->
+
+## 📚 Atualmente Estudando
+
+```mermaid
+mindmap
+  root((Estudos Atuais))
+    .NET
+      Fundamentos
+      Integração com C#
+    Boas Práticas
+      DDD
+      TDD
+    Front-End Avançado
+      React Native
+      Otimização de Performance
+```
+
+---
+
+<!-- ================================================== -->
+<!-- OBJETIVOS -->
+<!-- ================================================== -->
+
+## 🎯 Objetivos
+
+Busco continuar evoluindo como desenvolvedor Full Stack, aprofundando meu domínio em **arquitetura de back-end**, aplicando cada vez mais **DDD** e **TDD** na construção de APIs robustas e bem testadas. Também estou expandindo meu conhecimento para o ecossistema **.NET** e para soluções em **nuvem (AWS)**, com o objetivo de atuar em projetos que unam interfaces performáticas a back-ends escaláveis e bem estruturados.
+
+---
+
+<!-- ================================================== -->
+<!-- CONTATO -->
+<!-- ================================================== -->
+
+## 📬 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/felipe-fernandes" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fernandesfelipe.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/FelipeFernandes7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ================================================== -->
+<!-- FOOTER -->
+<!-- ================================================== -->
+
+<div align="center">
+
+### "Interfaces performáticas, back-ends bem estruturados — código pensado para durar."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
