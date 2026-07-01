@@ -164,10 +164,10 @@ Desenvolvimento do sistema interno **MazzaHoras**, para gerenciamento e registro
 <div align="center">
 
 <a href="https://github.com/FelipeFernandes7">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFernandes7&repo=nome-do-repositorio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFernandes7&coffee_shop&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/FelipeFernandes7">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFernandes7&repo=outro-repositorio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeFernandes7&mc-donalds&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
