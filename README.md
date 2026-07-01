@@ -100,7 +100,6 @@ Complemento minha atuação com experiência em **back-end**, utilizando **NestJ
 - 📘 **React Advanced**: Udemy *(Hooks avançados, padrões de componentização, otimização de performance)*
 - 📘 **Lógica de Programação**: Udemy *(Estruturas condicionais, algoritmos, resolução de problemas)*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Stats
 
