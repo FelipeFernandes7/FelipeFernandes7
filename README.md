@@ -10,6 +10,10 @@
 
 <br/>
 
+<a href="https://devlype.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-4338CA?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/felipe-fernandes-6a5a98215" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
